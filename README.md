@@ -52,14 +52,14 @@ Lima follows the CNCF Code of Conduct.
 
 
 
-Installation Part:/n
+Installation Part:
 
-Requirement:git project:/n
-$ brew install git/n
-$ sudo port install git/n
+Requirement:git project:
+$ brew install git
+$ sudo port install git
 
-1.)git clone https://github.com/xeroxpro/limamac.git/n
-2.)cd limamac/n
-3.)chmod +x setup.sh/n
-4)./setup.sh(There needs to some admini or root privileges during installation so please add the if necessary)/n
-5)That is all just write your browser http://localhost or http://127.0.0.1 (You will see the page)/n
+1.)git clone https://github.com/xeroxpro/limamac.git
+2.)cd limamac
+3.)chmod +x setup.sh
+4)./setup.sh(There needs to some admini or root privileges during installation so please add the if necessary)
+5)That is all just write your browser http://localhost or http://127.0.0.1 (You will see the page)
