@@ -89,11 +89,10 @@ mounts:
     # See https://www.kernel.org/doc/Documentation/filesystems/9p.txt
     # 🟢 Builtin default: "fscache" for non-writable mounts, "mmap" for writable mounts
     cache: null
-- location: "/tmp/lima"
+- location: "/Volumes/Macintosh HD/System"
   # 🟢 Builtin default: false
   # 🔵 This file: true (only for "/tmp/lima")
   writable: true
-
 # Mount type for above mounts, such as "reverse-sshfs" (from sshocker), "9p" (EXPERIMENTAL, from QEMU’s virtio-9p-pci, aka virtfs),
 # or "virtiofs" (EXPERIMENTAL, needs `vmType: vz`)
 # 🟢 Builtin default: "reverse-sshfs"
